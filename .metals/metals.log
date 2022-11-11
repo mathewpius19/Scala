@@ -1,0 +1,278 @@
+2022.10.21 16:54:13 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\mathe\Desktop\scalaTut\.metals\lsp.trace.json or C:\Users\mathe\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.10.21 16:54:14 INFO  logging to file C:\Users\mathe\Desktop\scalaTut\.metals\metals.log
+2022.10.21 16:54:14 INFO  Started: Metals version 0.11.9 in workspace 'C:\Users\mathe\Desktop\scalaTut' for client Visual Studio Code 1.72.2.
+2022.10.21 16:54:18 INFO  time: initialize in 4.36s
+2022.10.21 16:54:19 WARN  Build server is not auto-connectable.
+2022.10.21 16:54:19 WARN  no build tool detected in workspace 'C:\Users\mathe\Desktop\scalaTut'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.10.21 16:54:19 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+2022.10.21 16:54:33 INFO  no build target found for C:\Users\mathe\Desktop\scalaTut\userInput.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.10.21 16:54:34 INFO  time: code lens generation in 15s
+Oct 21, 2022 4:55:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+2022.10.21 16:56:32 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+2022.10.21 16:56:35 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+2022.10.21 16:57:20 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\scalaTut.scala
+2022.10.21 16:57:29 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\primeNumber.scala
+2022.10.21 16:58:43 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+2022.10.21 17:00:51 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+2022.10.21 17:01:28 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+2022.10.21 17:02:48 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+Oct 21, 2022 5:03:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1049
+2022.10.21 17:05:32 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+2022.10.21 17:05:50 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+2022.10.21 17:07:23 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+2022.10.21 17:08:10 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+2022.10.21 17:08:28 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+2022.10.21 17:10:10 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+2022.10.21 17:10:34 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+2022.10.21 17:10:42 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+2022.10.21 17:10:45 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+2022.10.21 17:10:57 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+2022.10.21 17:11:09 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+2022.10.21 17:11:18 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+2022.10.21 17:12:09 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+2022.10.21 17:13:21 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+2022.10.21 17:13:34 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+2022.10.21 17:13:46 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+Oct 21, 2022 5:13:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2861
+2022.10.26 15:05:34 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\mathe\Desktop\scalaTut\.metals\lsp.trace.json or C:\Users\mathe\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.10.26 15:05:35 INFO  logging to file C:\Users\mathe\Desktop\scalaTut\.metals\metals.log
+2022.10.26 15:05:35 INFO  Started: Metals version 0.11.9 in workspace 'C:\Users\mathe\Desktop\scalaTut' for client Visual Studio Code 1.72.2.
+2022.10.26 15:05:41 INFO  time: initialize in 5.43s
+2022.10.26 15:05:41 WARN  Build server is not auto-connectable.
+2022.10.26 15:05:41 WARN  no build tool detected in workspace 'C:\Users\mathe\Desktop\scalaTut'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.10.26 15:05:41 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\userInput.scala
+2022.10.26 15:05:41 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\primeNumber.scala
+2022.10.26 15:05:45 INFO  no build target found for C:\Users\mathe\Desktop\scalaTut\userInput.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.10.26 15:05:47 INFO  time: code lens generation in 5.54s
+2022.10.26 15:05:47 INFO  time: code lens generation in 6.19s
+2022.10.26 15:05:47 INFO  time: code lens generation in 1.48s
+2022.10.26 15:14:56 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\functions.scala
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.3/scalafmt-core_2.13-3.5.3.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.3/scalafmt-core_2.13-3.5.3.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.5/scalameta_2.13-4.5.5.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.3/scalafmt-config_2.13-3.5.3.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.3/scalafmt-sysops_2.13-3.5.3.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.5/scalameta_2.13-4.5.5.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.3/scalafmt-sysops_2.13-3.5.3.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.3/scalafmt-config_2.13-3.5.3.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.5/parsers_2.13-4.5.5.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.8/scalap-2.13.8.pom
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.13/0.10.0/metaconfig-typesafe-config_2.13-0.10.0.pom
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.13/0.10.0/metaconfig-core_2.13-0.10.0.pom
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.13/0.10.0/metaconfig-core_2.13-0.10.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.5/parsers_2.13-4.5.5.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.8/scalap-2.13.8.pom
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.13/0.10.0/metaconfig-typesafe-config_2.13-0.10.0.pom
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_2.13/0.10.0/metaconfig-pprint_2.13-0.10.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.5.0/scala-collection-compat_2.13-2.5.0.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.8/scala-compiler-2.13.8.pom
+Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.5.0/scala-collection-compat_2.13-2.5.0.pom
+Downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.8/scala-compiler-2.13.8.pom
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_2.13/0.10.0/metaconfig-pprint_2.13-0.10.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.pom
+Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.9.0/jna-5.9.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.5/common_2.13-4.5.5.pom
+Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.9.0/jna-5.9.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.5/common_2.13-4.5.5.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/geny_2.13/0.6.5/geny_2.13-0.6.5.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.2.7/sourcecode_2.13-0.2.7.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.2.7/sourcecode_2.13-0.2.7.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/geny_2.13/0.6.5/geny_2.13-0.6.5.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.8/scalap-2.13.8.jar
+Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.9.0/jna-5.9.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.5/scalameta_2.13-4.5.5.jar
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/geny_2.13/0.6.5/geny_2.13-0.6.5.jar
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.2.7/sourcecode_2.13-0.2.7.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.3/scalafmt-core_2.13-3.5.3.jar
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/geny_2.13/0.6.5/geny_2.13-0.6.5.jar
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.8/scala-reflect-2.13.8.jar
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.2.7/sourcecode_2.13-0.2.7.jar
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.8/scala-compiler-2.13.8.jar
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.8/scalap-2.13.8.jar
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.13/0.10.0/metaconfig-typesafe-config_2.13-0.10.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.5/scalameta_2.13-4.5.5.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.3/scalafmt-config_2.13-3.5.3.jar
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.13/0.10.0/metaconfig-typesafe-config_2.13-0.10.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.3/scalafmt-sysops_2.13-3.5.3.jar
+Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.9.0/jna-5.9.0.jar
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_2.13/0.10.0/metaconfig-pprint_2.13-0.10.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.3/scalafmt-config_2.13-3.5.3.jar
+Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.5.0/scala-collection-compat_2.13-2.5.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.3/scalafmt-sysops_2.13-3.5.3.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.5/parsers_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_2.13/0.10.0/metaconfig-pprint_2.13-0.10.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.5.0/scala-collection-compat_2.13-2.5.0.jar
+Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.jar
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.8/scala-reflect-2.13.8.jar
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.13/0.10.0/metaconfig-core_2.13-0.10.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.3/scalafmt-core_2.13-3.5.3.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.5/common_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.5/parsers_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.5/common_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.13/0.10.0/metaconfig-core_2.13-0.10.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.8/scala-compiler-2.13.8.jar
+2022.10.26 15:17:43 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\functions.scala
+2022.10.26 15:18:30 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\functions.scala
+2022.10.26 15:19:01 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\functions.scala
+2022.10.26 15:19:30 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\functions.scala
+2022.10.26 15:21:05 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\functions.scala
+2022.10.26 15:21:23 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\functions.scala
+Oct 26, 2022 3:23:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 948
+2022.10.26 15:24:36 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\functions.scala
+2022.10.26 15:25:02 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\functions.scala
+Oct 26, 2022 3:25:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1206
+2022.10.26 15:25:23 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\functions.scala
+2022.10.26 15:26:01 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\functions.scala
+Oct 26, 2022 3:28:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1576
+2022.10.26 15:28:29 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\functions.scala
+2022.10.26 15:28:53 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\functions.scala
+2022.10.26 15:29:17 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\functions.scala
+2022.10.26 15:29:50 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\functions.scala
+2022.10.26 15:30:19 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\functions.scala
+2022.10.26 15:49:37 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 15:49:55 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 15:50:24 ERROR scalafmt: C:\Users\mathe\Desktop\scalaTut\Arrays.scala:4: error: [dialect scala213] ; expected but integer constant found
+    var favNums = new Array [Int] 20;
+                                  ^
+2022.10.26 15:50:24 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 15:50:58 ERROR scalafmt: C:\Users\mathe\Desktop\scalaTut\Arrays.scala:4: error: [dialect scala213] ; expected but integer constant found
+    var favNums = new Array [Int] 20;
+                                  ^
+2022.10.26 15:50:58 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 15:51:17 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 15:51:37 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 15:55:13 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 15:55:41 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 15:56:00 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+Oct 26, 2022 3:56:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2986
+2022.10.26 15:56:30 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 15:57:33 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 15:58:00 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 15:58:24 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 15:58:57 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 15:59:33 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 16:00:11 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 16:05:32 ERROR scalafmt: C:\Users\mathe\Desktop\scalaTut\Arrays.scala:38: error: [dialect scala213] ) expected but var found
+    var favNumsMultipliedBy2 = for( num <- favNums) yield 2*num;
+    ^
+2022.10.26 16:05:32 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 16:05:55 ERROR scalafmt: C:\Users\mathe\Desktop\scalaTut\Arrays.scala:38: error: [dialect scala213] ) expected but val found
+    val favNumsMultipliedBy2 = for( num <- favNums) yield 2*num;
+    ^
+2022.10.26 16:05:55 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 16:06:05 ERROR scalafmt: C:\Users\mathe\Desktop\scalaTut\Arrays.scala:38: error: [dialect scala213] ) expected but var found
+    var favNumsMultipliedBy2 = for( num <- favNums) yield 2*num;
+    ^
+2022.10.26 16:06:05 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 16:06:13 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+Oct 26, 2022 4:07:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4093
+2022.10.26 16:07:48 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 16:07:52 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 16:08:04 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 16:09:17 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 16:13:58 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 16:14:41 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 16:14:56 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 16:15:26 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.26 16:22:17 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\scalaTut.scala
+2022.10.26 16:22:21 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\primeNumber.scala
+2022.10.26 17:54:27 INFO  shutting down Metals
+2022.10.28 15:51:13 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\mathe\Desktop\scalaTut\.metals\lsp.trace.json or C:\Users\mathe\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.10.28 15:51:15 INFO  logging to file C:\Users\mathe\Desktop\scalaTut\.metals\metals.log
+2022.10.28 15:51:15 INFO  Started: Metals version 0.11.9 in workspace 'C:\Users\mathe\Desktop\scalaTut' for client Visual Studio Code 1.72.2.
+2022.10.28 15:51:17 INFO  time: initialize in 2.19s
+2022.10.28 15:51:17 WARN  Build server is not auto-connectable.
+2022.10.28 15:51:17 WARN  no build tool detected in workspace 'C:\Users\mathe\Desktop\scalaTut'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.10.28 15:51:17 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\Arrays.scala
+2022.10.28 15:51:21 INFO  no build target found for C:\Users\mathe\Desktop\scalaTut\Arrays.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.10.28 15:51:24 INFO  time: code lens generation in 5.79s
+2022.10.28 16:04:49 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\maps.scala
+2022.10.28 16:05:01 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\maps.scala
+2022.10.28 16:06:52 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\maps.scala
+2022.10.28 16:07:45 ERROR scalafmt: C:\Users\mathe\Desktop\scalaTut\maps.scala:5: error: [dialect scala213] is not a valid refinement declaration
+    val employees = Map("Manager" -> "Mathew", "Secretary" -> "Janelle")
+    ^
+2022.10.28 16:07:45 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\maps.scala
+2022.10.28 16:07:50 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\functions.scala
+2022.10.28 16:08:02 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\primeNumber.scala
+2022.10.28 16:08:07 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\maps.scala
+2022.10.28 16:09:20 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\maps.scala
+2022.10.28 16:10:19 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\maps.scala
+2022.10.28 16:11:35 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\maps.scala
+2022.10.28 16:14:23 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\tuples.scala
+2022.10.28 16:14:54 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\tuples.scala
+Oct 28, 2022 4:15:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1808
+Oct 28, 2022 4:15:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1813
+2022.10.28 16:16:17 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\tuples.scala
+Oct 28, 2022 4:16:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2042
+2022.10.28 16:17:37 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\tuples.scala
+2022.10.28 16:17:52 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\tuples.scala
+2022.10.28 16:18:12 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\tuples.scala
+2022.10.28 16:18:35 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\tuples.scala
+2022.10.28 16:18:47 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\tuples.scala
+2022.10.28 16:19:01 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\classes.scala
+Oct 28, 2022 4:26:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2957
+Oct 28, 2022 4:26:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2999
+Oct 28, 2022 4:27:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3304
+Oct 28, 2022 4:28:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3377
+Oct 28, 2022 4:30:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3869
+Oct 28, 2022 4:30:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3930
+Oct 28, 2022 4:30:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3976
+Oct 28, 2022 4:30:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4008
+2022.10.28 16:30:44 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\classes.scala
+Oct 28, 2022 4:32:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4518
+2022.10.28 16:33:24 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\classes.scala
+Oct 28, 2022 4:35:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4802
+2022.10.28 16:36:35 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\classes.scala
+Oct 28, 2022 4:36:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5066
+2022.10.28 16:36:59 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\classes.scala
+Oct 28, 2022 4:39:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5212
+2022.10.28 16:39:15 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\classes.scala
+Oct 28, 2022 4:39:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5295
+2022.10.28 16:39:31 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\classes.scala
+Oct 28, 2022 4:40:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5368
+Oct 28, 2022 4:40:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5379
+Oct 28, 2022 4:40:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5400
+Oct 28, 2022 4:40:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5410
+2022.10.28 16:40:31 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\classes.scala
+2022.10.28 16:40:42 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\classes.scala
+2022.10.28 16:41:13 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\classes.scala
+2022.10.28 16:41:34 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\classes.scala
+2022.10.28 16:41:56 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\classes.scala
+2022.10.28 16:42:00 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\classes.scala
+2022.10.28 16:42:23 WARN  no build target for: C:\Users\mathe\Desktop\scalaTut\classes.scala
+2022.10.28 18:47:36 INFO  shutting down Metals
